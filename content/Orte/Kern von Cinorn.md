@@ -1,0 +1,1 @@
+Vor dem Krieg wurde dieser Kristall als riesiger Magie Speicher erschaffen um [[Cinorn]] auch in der Zukunft in den Wolken zu halten. Er erlaubte es [[Cinorn]] den [[großer Magiekrieg|großen Magiekrieg]] zu überdauern.

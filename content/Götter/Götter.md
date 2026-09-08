@@ -1,0 +1,1 @@
+In Ebada gibt es eine göttliche Autorität, die von zwei Schwestern verkörpert wird: [[Nisha]] und [[Surya]]. Die eine hat die Kontrolle über Nacht, Tod und Winter und die andere über Tag, Leben und Sommer. Beide sind neutral.

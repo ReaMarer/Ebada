@@ -1,0 +1,1 @@
+**Trikster-Pollen (25 GM):** Eine Wurf-Kapsel (Reichweite 6m). Bricht bei Aufprall aus: Alle Kreaturen in einem 3m-Radius müssen einen SG 12 Konstitutionsrettungswurf schaffen oder verfallen für 1 Runde in einen Niesanfall (gelten als _kampfunfähig_).

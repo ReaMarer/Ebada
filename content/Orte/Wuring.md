@@ -1,0 +1,1 @@
+Ein kleines Dorf das am [[Tenebraen Wald]] grenzt. Die Bewohner sind einladent aber bekommen wenig besuch und wenn sie welchem bekommen ratem sie ihm stehts davon ab sich dem Wald zu nähern. 

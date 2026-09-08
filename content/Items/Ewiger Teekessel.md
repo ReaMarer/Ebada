@@ -1,0 +1,1 @@
+Getränke aus diesem Kessel haben immer die perfekte Temperatur.

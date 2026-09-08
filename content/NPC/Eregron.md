@@ -1,0 +1,1 @@
+Ein Zauberer der die Manipualtion von Magie so weit brachte das er einen effektiven Weg fand sie zu speichern. Mit diesem Wissen erschuf er den [[Kern von Cinorn]] um seine schwebende Stadt [[Cinorn]] im Himmel zu halten.

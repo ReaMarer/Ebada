@@ -1,0 +1,1 @@
+Ein dicker Nebel umhüllt die Uralten Sümpfe rund um die Uhr. Ein ständiger fauler Geruch der Verwesung liegt in der Luft. Nachts über kann man verschwommen lichter durch den Nebel erkennen. Viele haben sich in die Sümpfe begeben um diese Phänomen zu Untersuchen aber bis jetzt ist noch keiner zurück gekommen.

@@ -1,0 +1,1 @@
+Eine Blume, die den Tod symbolisiert. Je nach Zubereitung kann sie als starkes Heilmittel oder Gift verwendet werden.

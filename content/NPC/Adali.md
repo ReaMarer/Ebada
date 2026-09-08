@@ -1,0 +1,1 @@
+Die Gründerin von [[Chronum Arkademie]] sie wurde in einer Bauernfamilie ohne viel Geld geboren, und lernte Magie alleine ohne eine richtige Ausbildung. Zum Ende ihres Lebens hin gründete sie desshalb die [[Chronum Arkademie]].

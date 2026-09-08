@@ -1,0 +1,1 @@
+Es gibt zwei große Tempel, die sich in der Luft schwebend ständig umkreisen. Der von [[Surya]] bleibt immer im Teil der Welt, in dem gerade Tag ist, während der von [[Nisha]] immer im Teil der Welt bleibt, in dem gerade Nacht ist. Beide sind ähnlich aufgebaut mit einem großen Gebäude in der Mitte und umgeben mit Höfen, die je für die Domains stehen.
