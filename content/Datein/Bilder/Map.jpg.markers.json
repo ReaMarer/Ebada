@@ -13,7 +13,10 @@
 ],
 "markers": \[],
 "bases": \[
-"Datein/Bilder/Map.jpg"
+{
+"path": "Datein/Bilder/Map.jpg",
+"name": "Ebada Weltkarte"
+}
 ],
 "overlays": \[],
 "activeBase": "Datein/Bilder/Map.jpg",
@@ -29,6 +32,8 @@
 "panClamp": true,
 "drawLayers": \[],
 "drawings": \[],
-"secondScreen": {},
+"secondScreen": {
+"showGrids": true
+},
 "textLayers": \[]
 }
