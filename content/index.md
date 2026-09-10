@@ -2,18 +2,9 @@
 publish: true
 title: Willkommen in unserer DnD-Kampagne
 created: 2026-09-07T17:53:41.120Z
-modified: 2026-09-10T15:19:10.897Z
+modified: 2026-09-10T15:22:58.280Z
 ---
 
 # Willkommen Helden!
 
 Hier könnt ihr Dateien sehen, die ich für euch freigegeben habe.
-
-```leaflet
-id: ebada-weltkarte
-image: Datein/Bilder/Map.jpg
-height: 600px
-minZoom: 1
-maxZoom: 5
-defaultZoom: 2
-```
