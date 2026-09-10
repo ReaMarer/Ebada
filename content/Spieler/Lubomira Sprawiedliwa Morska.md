@@ -3,7 +3,7 @@
 - **Name:** Lubomira Sprawiedliwa Morska
 - **Ursprung:** [[Urmeer]]
 - **Aktuelle Gestalt:** Wasser Genasi
-- **Hauptkonflikt:** Wird bei Wasserkontakt zurück ins [[Urmeer]] gezogen. (Durch [[Seelen Kette]] aufgehoben.)
+- **Hauptkonflikt:** Wird bei Wasserkontakt zurück ins [[Urmeer]] gezogen. (Durch [[Seelen Anker Kette]] aufgehoben.)
 
 ---
 
