@@ -1,12 +1,11 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Ebada
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: de
   baseUrl: reamarer.github.io/Ebada
   ignorePatterns:
     - private
@@ -278,6 +277,14 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:quartz-community/obsidian-plugin-ttrpg-tools-maps
+    enabled: true
+    options:
+      blockLanguage: zoommap
+      inlineBlockHeaderId: ZOOMMAP-DATA
+      maxInlineDataBytes: 0
+      defaultIconKey: pin-red
+    order: 55
 layout:
   groups:
     toolbar:
@@ -285,11 +292,6 @@ layout:
       direction: row
       gap: 0.5rem
   byPageType:
-    "404":
-      positions:
-        beforeBody: []
-        left: []
-        right: []
     content: {}
     folder:
       exclude:
