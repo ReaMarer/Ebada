@@ -1,3 +1,3 @@
-Eine starke Erzfee und die Königen des [[Elysianen Reich]]. 
+Eine starke Erzfee und die Königen des [[Elysianen Reich]].
 
-![[Euthemia (Bild).jpg]]
+![[Datein/Bilder/Euthemia (Bild).jpg]]
