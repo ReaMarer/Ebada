@@ -1,0 +1,1 @@
+Einer der größten Flüsse in ganz Ebada, er entspringt in der [[Arraghana Wüste]] und mündet im Ozian. Auf grund des fruchtbaren Bodens haben um den Fluss herum mehrere kleine Siedlungen so wie eine Metropole ([[Kide]]) gebildet.

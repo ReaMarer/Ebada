@@ -3,4 +3,5 @@ Die Stadt ist entweder durch das Portal im Zentrum der Stadt oder durchs fliegen
 Das Portal wird mit dem [[Kern von Cinorn]] angetrieben.
 
 ### Häufige Berufe
+
 - Magie Wirker
