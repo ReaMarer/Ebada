@@ -5,7 +5,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: de
+  locale: de-DE
   baseUrl: reamarer.github.io/Ebada
   ignorePatterns:
     - private
@@ -172,9 +172,9 @@ plugins:
     layout:
       position: left
       priority: 20
-      group: toolbar
-      groupOptions:
-        grow: true
+#      group: toolbar
+#      groupOptions:
+#        grow: true
   - source: "@quartz-community/backlinks"
     enabled: true
     layout:
@@ -205,13 +205,13 @@ plugins:
     layout:
       position: left
       priority: 30
-      group: toolbar
+#      group: toolbar
   - source: "@quartz-community/reader-mode"
     enabled: true
     layout:
       position: left
       priority: 35
-      group: toolbar
+#      group: toolbar
   - source: "@quartz-community/breadcrumbs"
     enabled: true
     layout:
@@ -286,22 +286,9 @@ plugins:
       defaultIconKey: pin-red
     order: 55
 layout:
-  groups:
-    toolbar:
-      priority: 35
-      direction: row
-      gap: 0.5rem
   byPageType:
     content: {}
-    folder:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
-    tag:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
+    folder: {}
+    tag: {}
     canvas: {}
     bases: {}
