@@ -11,7 +11,18 @@
 "locked": false
 }
 ],
-"markers": \[],
+"markers": \[
+{
+"type": "pin",
+"id": "marker\_uffm6i",
+"x": 0.2759259033203125,
+"y": 0.15083333333333335,
+"layer": "default",
+"link": "Auenland",
+"iconKey": "pinRed",
+"tooltip": "test"
+}
+],
 "bases": \[
 {
 "path": "Datein/Bilder/Map.jpg",
